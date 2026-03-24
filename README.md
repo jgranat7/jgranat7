@@ -1,6 +1,6 @@
 # John Granat
 
-Software Engineering graduate from Western Governors University with experience building full-stack applications, desktop software, and database-driven systems. Strongest experience with Python and SQL, with additional experience in C# application development and ASP.NET web applications.
+Software Engineering graduate from Western Governors University with experience building full-stack applications, desktop software, and database-driven systems. Experienced with Python and SQL, with additional experience in C# application development and ASP.NET web applications.
 
 ## Technical Skills
 
@@ -48,4 +48,4 @@ Western Governors University
 
 ## Goals
 
-Seeking entry-level software engineering or application development opportunities where I can continue developing my backend development and database skills.
+Seeking entry-level software engineering or application development opportunities where I can continue developing my backend and frontend development and database skills.
